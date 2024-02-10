@@ -1,0 +1,7 @@
+git commands
+
+git init :
+this initialize an empty git report
+
+get add:
+this scanns the entire local folder and adds the changes to be commited
